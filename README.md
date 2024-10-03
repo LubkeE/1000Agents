@@ -93,7 +93,7 @@ Agent_8  Name: Aria Khan
          Special Skills: Proficient in using advanced CAD/CAM software, skilled in robotics and automation technology, and fluent in Mandarin Chinese.
          Profession 2: Founder and CEO of XenoTech, a space exploration startup that focuses on developing innovative technologies for interplanetary travel. Under her leadership, XenoTech has secured significant funding from major investors such as Elon Musk and Richard Branson.
          Hobbies: Aria enjoys playing the erhu (a traditional Chinese two-stringed instrument) in her free time and is an avid collector of space memorabilia. She also volunteers with organizations that aim to promote STEM education for underprivileged youth.
-
+         
 Agent_9  Name: Dr. Selena Yang
          Age: 38
          Sex: Female
@@ -104,6 +104,7 @@ Agent_9  Name: Dr. Selena Yang
          Profession #2: Consultant and Entrepreneur in the field of nanotechnology and advanced materials
          Special skills: Strategic planning and business development for start-ups and established companies; Intellectual property management and licensing; Technology commercialization and market analysis
          Hobbies: Mentoring young scientists and engineers, volunteering for STEM education programs, and promoting women in STEM careers.
+
 --------------------------------------------------------------------------------
 
 User prompt: Clarify the question of how AI, quantum computers and fusion energy can work together to solve many problems. Concentrate on this question.
