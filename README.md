@@ -1,8 +1,9 @@
 # 1000Agents
 Experiment with agents
 
-Example of agents discussing about AI, quantum computers and fusion energy (one of 10 rounds:
+Example of agents discussing about AI, quantum computers and fusion energy (one of 10 rounds):
 
+Agents biographies: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 Agent_0  Name: Elena Marquez
          Age: 38
