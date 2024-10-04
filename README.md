@@ -1,7 +1,13 @@
 # 1000Agents
 Experiment with agents
 
-Example of agents discussing about AI, quantum computers and fusion energy (one of 10 rounds):
+LLMs contain an impressive wealth of knowledge. However, it is not easy to make this usable for a complex question. Especially when you want to look at two or more areas of knowledge and their connection, e.g. between AI, quantum computers and fusion energy, simple prompts quickly come to an end.
+
+An attempt is made here to generate a variety of arguments on a complex topic. For this purpose, 10 agents (later 1000!?) with different biographies are created who discuss the common question against their individual backgrounds. An agent's statement builds on the arguments of the other agents and is incorporated into their own statement in order to advance the discussion.
+
+To do this, I proceed as follows: Of the 10 agents, 3 to 5 agents are randomly selected to take part in the discussion. There are 3 rounds in which each agent can express themselves. The discussion is then summarized and evaluated against the background of the user prompt. The summary and evaluation are available for the following discussion round - 10 rounds in total. This framework can be easily changed in Python code.
+
+Example of agents discussing about AI, quantum computers and fusion energy (one of 10 diskussion rounds):
 
 Agents biographies: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
